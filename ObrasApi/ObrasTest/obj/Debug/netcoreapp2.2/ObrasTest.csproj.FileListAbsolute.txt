@@ -1,0 +1,17 @@
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\ObrasTest.deps.json
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\ObrasTest.runtimeconfig.json
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\ObrasTest.runtimeconfig.dev.json
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\ObrasTest.dll
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\ObrasTest.pdb
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\obj\Debug\netcoreapp2.2\ObrasTest.csprojAssemblyReference.cache
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\obj\Debug\netcoreapp2.2\ObrasTest.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\obj\Debug\netcoreapp2.2\ObrasTest.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\obj\Debug\netcoreapp2.2\ObrasTest.AssemblyInfo.cs
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\obj\Debug\netcoreapp2.2\ObrasTest.dll
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\obj\Debug\netcoreapp2.2\ObrasTest.pdb
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\ObrasApi.dll
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\bin\Debug\netcoreapp2.2\ObrasApi.pdb
+C:\Users\junio\source\repos\Obras-Bibliogr-ficas\ObrasClient\ObrasApi\ObrasTest\obj\Debug\netcoreapp2.2\ObrasTest.csproj.CopyComplete

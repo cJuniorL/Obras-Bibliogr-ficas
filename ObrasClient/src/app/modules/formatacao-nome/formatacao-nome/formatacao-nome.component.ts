@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { TouchSequence } from 'selenium-webdriver';
 import { NomeFormatacao } from 'src/app/shared/models/NomeFormatacao';
+import { FormataNomeService } from 'src/app/core/formata-nome.service';
 
 @Component({
   selector: 'app-formatacao-nome',
@@ -11,8 +12,9 @@ export class FormatacaoNomeComponent implements OnInit {
 
   quantidadeNome : number;
   nomesFormatacao : NomeFormatacao[] = [];
+  resultadosFormatacao : NomeFormatacao[] = [];
 
-  constructor() {
+  constructor(private formataNomeService : FormataNomeService) {
   }
 
   ngOnInit() {
@@ -20,13 +22,18 @@ export class FormatacaoNomeComponent implements OnInit {
 
   btnConfirmarQuantidade_Click(){
     this.nomesFormatacao = [];
+    this.resultadosFormatacao = [];
     for (let i = 0; i < this.quantidadeNome; i++){
       this.nomesFormatacao.push(new NomeFormatacao());
     }
   }
 
   btnFormatarNomes_Click(){
-    console.log(this.nomesFormatacao);
+    this.formataNomeService.Formatar(this.nomesFormatacao).subscribe((data : NomeFormatacao[]) => {
+      this.resultadosFormatacao = data;
+    }, (error) => {
+      alert("Um erro ocorreu!")
+    });
   }
 
 }
